@@ -1,1 +1,0 @@
-- [Living Sculptures](https://www.udk-berlin.de/)
