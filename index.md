@@ -11,4 +11,4 @@ Living Sculptures Webring<br/><br/>
 - [Ying Chen & Linden Derichs]()
 - [Linden Derichs - double empathy]()
 <!-- - [text](url) -->
-<!-- ^^ add your link here in the same form: "- [text](url)" -->
+<!-- ^^ add/update your link here in the same form: "- [text](url)" -->
